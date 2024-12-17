@@ -122,7 +122,7 @@ Through decentralized governance and incentive models, W3SD unites Web3 users gl
 
 As blockchain technology continues to evolve, both Layer 1 and Layer 0 networks are rapidly expanding, each serving distinct purposes within the ecosystem. From the vast cosmos of blockchain ecosystems, Polkadot stands out with a clear vision:
 
-![built-on-polkadot](https://w3sd.org/WhitePaper/img/built-on-polkadot.svg)
+![built-on-polkadot](https://w3sd.org/WhitePaper/img/built-on-polkadot.png)
 
 > ##### *"We envision a Web where our identity and our data is our own - safely secured from any central authority."*
 >
