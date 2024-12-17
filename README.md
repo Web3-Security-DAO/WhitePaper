@@ -32,10 +32,10 @@ The **[USDT BlackList](https://www.usdtblacklist.com/)** project, launched in Ap
 
 #### The main data sources for USDT BlackList include
 
-- **Partner Data: **Risk data provided by blockchain security alliances and third-party service providers.
-- **Intelligent Analysis System: **Automatic analysis of on-chain transactions and associated activities to identify malicious addresses involved in fraud, phishing, or sanctioned activities.
-- **Public News and Reports: **Aggregation and analysis of publicly available reports on Web3 security incidents via a web crawler system.
-- **User Feedback: **Collection of user-submitted risk clues, which are validated through community collaboration.
+- **Partner Data:** Risk data provided by blockchain security alliances and third-party service providers.
+- **Intelligent Analysis System:** Automatic analysis of on-chain transactions and associated activities to identify malicious addresses involved in fraud, phishing, or sanctioned activities.
+- **Public News and Reports:** Aggregation and analysis of publicly available reports on Web3 security incidents via a web crawler system.
+- **User Feedback:** Collection of user-submitted risk clues, which are validated through community collaboration.
 
 ![data-sources-for-usdtblacklist](https://w3sd.org/WhitePaper/img/data-sources-for-usdtblacklist.png)
 
@@ -57,22 +57,22 @@ Through the Web3 Security DAO (W3SD), our goal is to establish a global Web3 sec
 
 #### Benefits of DAO Governance
 
-- **Democratized Decision-Making: **All DAO members can propose and vote, enabling collective wisdom to drive decisions.
-- **Transparency and Credibility: **Governance records are stored on-chain, making processes traceable and tamper-proof.
-- **Efficiency and Automation: **Smart contracts automatically execute voting outcomes, reducing manual intervention and delays.
-- **Inclusivity: **Anyone meeting minimum requirements can join as a DAO member and participate in governance.
-- **Incentive Mechanism: **Token-based rewards encourage greater participation, boosting community activity and data quality.
+- **Democratized Decision-Making:** All DAO members can propose and vote, enabling collective wisdom to drive decisions.
+- **Transparency and Credibility:** Governance records are stored on-chain, making processes traceable and tamper-proof.
+- **Efficiency and Automation:** Smart contracts automatically execute voting outcomes, reducing manual intervention and delays.
+- **Inclusivity:** Anyone meeting minimum requirements can join as a DAO member and participate in governance.
+- **Incentive Mechanism:** Token-based rewards encourage greater participation, boosting community activity and data quality.
 
 
 
 #### Principles of DAO Governance
 
-- **On-Chain Proposals: **DAO members can submit proposals, such as marking an address as high-risk.
-- **Voting Mechanism: **Once a proposal is submitted, eligible DAO members vote to support or oppose it.
-- **Smart Contract Execution: **After voting concludes, smart contracts execute the decision, updating risk records and distributing rewards accordingly.
+- **On-Chain Proposals:** DAO members can submit proposals, such as marking an address as high-risk.
+- **Voting Mechanism:** Once a proposal is submitted, eligible DAO members vote to support or oppose it.
+- **Smart Contract Execution:** After voting concludes, smart contracts execute the decision, updating risk records and distributing rewards accordingly.
+
 
 ![how-web3-voting-works](https://w3sd.org/WhitePaper/img/how-web3-voting-works.png)
-
 By embracing DAO governance, the community shifts from passive recipients of centralized services to active creators and managers of risk data.
 
 
@@ -81,12 +81,12 @@ By embracing DAO governance, the community shifts from passive recipients of cen
 
 #### Advantages of Web3 Voting
 
-- **Enhanced Security: **Cryptographic techniques and consensus mechanisms protect the integrity of voting results.
-- **Transparency: **All proposals, votes, and results are publicly accessible, eliminating opaque operations.
-- **High Efficiency: **Smart contracts automate execution, reducing costs and time.
-- **Real-Time Updates: **Proposals and voting outcomes can be updated in realtime, accelerating decision-making.
-- **Fairness: **Token holdings and participation balance voting power, ensuring democratic governance.
-- **Global Accessibility: **On-chain voting removes geographic barriers, fostering worldwide participation and collaboration.
+- **Enhanced Security:** Cryptographic techniques and consensus mechanisms protect the integrity of voting results.
+- **Transparency:** All proposals, votes, and results are publicly accessible, eliminating opaque operations.
+- **High Efficiency:** Smart contracts automate execution, reducing costs and time.
+- **Real-Time Updates:** Proposals and voting outcomes can be updated in realtime, accelerating decision-making.
+- **Fairness:** Token holdings and participation balance voting power, ensuring democratic governance.
+- **Global Accessibility:** On-chain voting removes geographic barriers, fostering worldwide participation and collaboration.
 
 Through decentralized governance and incentive models, W3SD unites Web3 users globally to build a secure, transparent, and trustworthy on-chain ecosystem.
 
@@ -103,18 +103,18 @@ Through decentralized governance and incentive models, W3SD unites Web3 users gl
 
 #### Roles of Governance Tokens
 
-- **Voting Weight: **Each token represents one vote. Members holding more tokens have greater influence, aligning rights with responsibilities.
-- **Incentive Mechanism: **Tokens serve as rewards to encourage active participation in proposals, voting, and data submission.
-- **Economic Sustainability: **Token distribution and consumption (e.g., governance fees) ensure the long-term viability of the community.
-- **Access Control: **Holding tokens is a prerequisite for governance participation, fostering a community of engaged and contributing members.
+- **Voting Weight:** Each token represents one vote. Members holding more tokens have greater influence, aligning rights with responsibilities.
+- **Incentive Mechanism:** Tokens serve as rewards to encourage active participation in proposals, voting, and data submission.
+- **Economic Sustainability:** Token distribution and consumption (e.g., governance fees) ensure the long-term viability of the community.
+- **Access Control:** Holding tokens is a prerequisite for governance participation, fostering a community of engaged and contributing members.
 
 ![governance-token](https://w3sd.org/WhitePaper/img/governance-token.png)
 
 #### Advantages of Governance Tokens
 
-- **Fairness: **Token holdings determine voting weight, preventing governance monopolization.
-- **Value Creation: **Token circulation and appreciation are directly tied to community growth.
-- **Resource Allocation: **Token-based rewards attract developers, data contributors, and security researchers.
+- **Fairness:** Token holdings determine voting weight, preventing governance monopolization.
+- **Value Creation:** Token circulation and appreciation are directly tied to community growth.
+- **Resource Allocation:** Token-based rewards attract developers, data contributors, and security researchers.
 
 
 
@@ -185,10 +185,10 @@ To build the global most reliable risk data source and Web3 security community t
 
 ### 6.2 Vision
 
-- **Become the Global Standard for Web3 Security: **Establish a trusted framework for risk governance in the Web3 ecosystem through transparency.
-- **Build a Global Security Community: **Engage individuals, enterprises, and organizations to collectively protect the on-chain ecosystem.
-- **Foster On-Chain Transparency: **Use DAO governance and decentralized technologies to eliminate information asymmetry, enhancing safety and reliability in on-chain activities.
-- **Incentivize Innovation and Collaboration: **Encourage developers and researchers in Web3 security to innovate, driving technological progress and ecosystem prosperity.
+- **Become the Global Standard for Web3 Security:** Establish a trusted framework for risk governance in the Web3 ecosystem through transparency.
+- **Build a Global Security Community:** Engage individuals, enterprises, and organizations to collectively protect the on-chain ecosystem.
+- **Foster On-Chain Transparency:** Use DAO governance and decentralized technologies to eliminate information asymmetry, enhancing safety and reliability in on-chain activities.
+- **Incentivize Innovation and Collaboration:** Encourage developers and researchers in Web3 security to innovate, driving technological progress and ecosystem prosperity.
 
 ![web3-safe](https://w3sd.org/WhitePaper/img/web3-safe.png)
 
@@ -198,9 +198,8 @@ We firmly believe that with the collective effort of users worldwide, Web3 Secur
 
 ## 7. Contact
 
-- **Website: **[https://w3sd.org](https://w3sd.org/)
-- **Github: **https://github.com/Web3-Security-DAO
-- **X: **https://x.com/W3SD_Official
-- **Telegram: **https://t.me/W3SD_Official
-- **Email: **[hello@w3sd.org](mailto:hello@w3sd.org)
-
+- **Website:** [https://w3sd.org](https://w3sd.org/)
+- **Github:** https://github.com/Web3-Security-DAO
+- **X:** https://x.com/W3SD_Official
+- **Telegram:** https://t.me/W3SD_Official
+- **Email:** [hello@w3sd.org](mailto:hello@w3sd.org)
